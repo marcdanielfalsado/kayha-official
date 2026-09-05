@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/hfhKfrNtH0EAAAAM/eraserhead-thumbs-up-eraserhead.gif" alt="Eraserhead giving a thumbs-up" width="400" />
 </p>
 
-<p align="center">I built this website for Kayha and did some design work for their brand and Instagram.</p>
+<p align="center">I built their website and did some design work for their brand.</p>
 
 <p align="center">
   <a href="https://www.kayhaofficial.com/">
