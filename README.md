@@ -12,3 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="View Instagram" />
   </a>
 </p>
+
+<p align="center">
+  <img src="./assets/website-screenshot.png" alt="Kayha website screenshot" width="900" />
+</p>
